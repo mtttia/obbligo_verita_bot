@@ -1,0 +1,19 @@
+{
+  "name": "obbligo_verita_bot",
+  "version": "1.0.0",
+  "description": "bot for the game \"obbligo verità\"",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "npx nodemon index.js",
+    "database": "node database/db_seeder.js"
+  },
+  "author": "mtttia",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "sqlite3": "^5.0.2",
+    "telegraf": "^4.4.2"
+  },
+  "type": "module"
+}

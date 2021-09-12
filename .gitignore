@@ -1,0 +1,4 @@
+node_modules/
+.env
+obbligo_vertita_db.db
+db_prova.js

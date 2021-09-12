@@ -1,0 +1,1 @@
+https://t.me/obbligo_verita_game_bot
